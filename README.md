@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is no longer maintained. All charts are now out of date, and we don't recommend that you use them.
+
 # Okteto Application Catalog
 
 This Helm repository contains the default Helm charts for the Okteto Cloud default repository:
